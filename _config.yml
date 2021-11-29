@@ -1,6 +1,6 @@
 title:             Fath Tips
 email:             ahmedfathelbab@gmail.com
-description:       Leaving my comfort zone is not my thing. However, I can invite you to it!
+description:       Not a big fan of leaving comfort zones. I like mine. Hope you like it too.
 author:             Ahmed Fathelbab
 baseurl:            "/fathelbaba.github.io"
 url:                "https://ahmedfathelbab.me"
@@ -13,7 +13,7 @@ instagram_username:  afat7elbab
 linkedin_username: fathelbab
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-213791447-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown

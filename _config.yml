@@ -1,6 +1,6 @@
-title:             Ahmed Fathelbab
+title:             Fath Tips
 email:             ahmedfathelbab@gmail.com
-description:        My Blog
+description:       Leaving my comfort zone is not my thing. However, I can invite you to it!
 author:             Ahmed Fathelbab
 baseurl:            "/fathelbaba.github.io"
 url:                "https://ahmedfathelbab.me"
@@ -23,3 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+# Theme
+theme: jekyll-theme-clean-blog
